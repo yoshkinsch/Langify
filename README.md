@@ -1,8 +1,7 @@
 **LANGIFY EXECUTABLE**
   IN ORDER TO RUN THE PROGRAM: 
-  1) Clone (or download) the repo to Godot, and 2) Run the "Langify.Console.exe" file found within the github repository.
-  THE FILEPATH TO THE EXECUTABLE IS: "...\Langify\Langify.Console.exe"
-
+  1) Clone (or download) the repo to Godot
+  2) Run the "Langify.Console.exe" file found within the github repository.
 
 **DISTRIBUTION NOTICE**
 This project was made for K=State's Hackathon 2024.
