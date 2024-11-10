@@ -1,5 +1,6 @@
 **LANGIFY EXECUTABLE**
-  IN ORDER TO RUN THE PROGRAM: 1) Clone (or download) the repo to Godot, and 2) Run the "Langify.Console.exe" file found within the github repository.
+  IN ORDER TO RUN THE PROGRAM: 
+  1) Clone (or download) the repo to Godot, and 2) Run the "Langify.Console.exe" file found within the github repository.
   THE FILEPATH TO THE EXECUTABLE IS: "...\Langify\Langify.Console.exe"
 
 
